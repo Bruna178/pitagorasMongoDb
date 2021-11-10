@@ -6,6 +6,10 @@ import org.bson.Document;
 // TODO(Alterar o método de exibição dos alunos para retornar uma lista)
 // TODO(Implementar os demais métodos, alteração e exclusão de alunos)
 // TODO(Implementar um método para retornar o aluno por CPF)
+// TODO(Implementar filtro por ano de início)
+// TODO(Atualizar o aluno baseado em seu CPF)
+// TODO(IMPEDIR O CADASTRO DE ALUNOS COM MESMO CPF)
+// TODO(CRIAR UMA GUI para o sistema)
 
 
 public class MongoDBConnection {
