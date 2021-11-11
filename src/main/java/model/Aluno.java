@@ -27,7 +27,7 @@ public class Aluno {
         this.nome = nome;
     }
 
-    public String getCurso() {
+    public String getCurso(){
         return curso;
     }
 
